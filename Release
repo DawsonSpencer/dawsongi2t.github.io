@@ -1,8 +1,8 @@
-Origin: CrazyBloo's Repo
-Label: CrazyBloo's Repo
+Origin: fidele007 Repo
+Label: fidele007 Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: CBloo's Repo
+Description: One tweak at a time.
